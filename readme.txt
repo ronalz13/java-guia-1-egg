@@ -1,0 +1,1 @@
+este repositorio esta conformado por los ejercicios correspondientes a la primera guia de programacion full stack de egg academy en el lenguaje de programacion java usando el IDE NetBeans
