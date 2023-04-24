@@ -10,6 +10,8 @@ package javaapplication1;
  * @author king_
  */
 public class ejercicio11 {
-   public static void main(String[] args)
+   public static void main(String[] args){
+       
+   }
     
 }
